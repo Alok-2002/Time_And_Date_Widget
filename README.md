@@ -1,1 +1,1 @@
-# Time_And_Date_view
+# Time_And_Date_Widget
